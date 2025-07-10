@@ -16,7 +16,7 @@ import Hero from "../../components/Sections/Hero";
 import Footer from "../../components/Sections/Footer";
 import Gallery from "../../components/Sections/Gallery";
 import Locations from "../../components/Sections/Locations";
-import Faq from "../../components/Sections/Faq";
+import Faq from "../../components/Sections/FAQ";
 import SectionTab from "../../components/SectionTab";
 import SectionMenu from "../../components/SectionMenu";
 import Features from "../../components/Sections/Features";
