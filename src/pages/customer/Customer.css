@@ -1,0 +1,13 @@
+.main-content {
+    flex: 1;
+    padding: 20px 30px;
+    background-color: #fff;
+    overflow-y: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+tbody {
+    padding-bottom: 12px;
+}
